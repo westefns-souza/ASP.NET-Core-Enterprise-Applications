@@ -7,3 +7,14 @@ C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Pa
 C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Pagamento.API\obj\Debug\netcoreapp3.1\NSE.Pagamento.API.RazorTargetAssemblyInfo.cache
 C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Pagamento.API\obj\Debug\netcoreapp3.1\staticwebassets\NSE.Pagamento.API.StaticWebAssets.Manifest.cache
 C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Pagamento.API\obj\Debug\netcoreapp3.1\staticwebassets\NSE.Pagamento.API.StaticWebAssets.xml
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Pagamento.API\bin\Debug\netcoreapp3.1\NSE.Pagamento.API.exe
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Pagamento.API\bin\Debug\netcoreapp3.1\NSE.Pagamento.API.deps.json
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Pagamento.API\bin\Debug\netcoreapp3.1\NSE.Pagamento.API.runtimeconfig.json
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Pagamento.API\bin\Debug\netcoreapp3.1\NSE.Pagamento.API.runtimeconfig.dev.json
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Pagamento.API\bin\Debug\netcoreapp3.1\NSE.Pagamento.API.dll
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Pagamento.API\bin\Debug\netcoreapp3.1\NSE.Pagamento.API.pdb
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Pagamento.API\obj\Debug\netcoreapp3.1\NSE.Pagamento.API.csproj.CoreCompileInputs.cache
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Pagamento.API\obj\Debug\netcoreapp3.1\NSE.Pagamento.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Pagamento.API\obj\Debug\netcoreapp3.1\NSE.Pagamento.API.dll
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Pagamento.API\obj\Debug\netcoreapp3.1\NSE.Pagamento.API.pdb
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Pagamento.API\obj\Debug\netcoreapp3.1\NSE.Pagamento.API.genruntimeconfig.cache

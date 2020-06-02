@@ -8,3 +8,13 @@ C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Ca
 C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Carrinho.API\obj\Debug\netcoreapp3.1\NSE.Carrinho.API.RazorTargetAssemblyInfo.cache
 C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Carrinho.API\obj\Debug\netcoreapp3.1\staticwebassets\NSE.Carrinho.API.StaticWebAssets.Manifest.cache
 C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Carrinho.API\obj\Debug\netcoreapp3.1\staticwebassets\NSE.Carrinho.API.StaticWebAssets.xml
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Carrinho.API\bin\Debug\netcoreapp3.1\NSE.Carrinho.API.deps.json
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Carrinho.API\bin\Debug\netcoreapp3.1\NSE.Carrinho.API.runtimeconfig.json
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Carrinho.API\bin\Debug\netcoreapp3.1\NSE.Carrinho.API.runtimeconfig.dev.json
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Carrinho.API\bin\Debug\netcoreapp3.1\NSE.Carrinho.API.dll
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Carrinho.API\bin\Debug\netcoreapp3.1\NSE.Carrinho.API.pdb
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Carrinho.API\obj\Debug\netcoreapp3.1\NSE.Carrinho.API.csproj.CoreCompileInputs.cache
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Carrinho.API\obj\Debug\netcoreapp3.1\NSE.Carrinho.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Carrinho.API\obj\Debug\netcoreapp3.1\NSE.Carrinho.API.dll
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Carrinho.API\obj\Debug\netcoreapp3.1\NSE.Carrinho.API.pdb
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Carrinho.API\obj\Debug\netcoreapp3.1\NSE.Carrinho.API.genruntimeconfig.cache
