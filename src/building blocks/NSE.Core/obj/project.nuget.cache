@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "JGaVPUzM2G5KjLnpxlOZpKONcLl7OFNKFRThNl7n6ikiiUH0D54bFsttrr/8UxGfiUeecBQMkhwe/6FJ0TUFeQ==",
+  "dgSpecHash": "zbncuBgjroRWl9+3saWaiHbQN4qiB1fcnHuhcwytQFOdOZCDs9Wnvoe0JIuny75XEt2nM3o49mjLPjay8Ta9CA==",
   "success": true,
   "projectFilePath": "C:\\Users\\weste\\Documents\\Desenvolvimento\\NerdStoreEnterprise\\src\\building blocks\\NSE.Core\\NSE.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\weste\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

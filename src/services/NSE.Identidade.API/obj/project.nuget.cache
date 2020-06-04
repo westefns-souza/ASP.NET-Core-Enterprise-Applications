@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "d4tpic78+3t1woXi2n7vsMQN5r47qaoF9HRZo7VWgwpYjtGyHoDgjBIXuYwTkmP//DYGdJAYE/OwJPKYdW1bhw==",
+  "dgSpecHash": "3U8npuU5A04gFSgliIScUSYUpqh5JBX/0gFAL1K+LIKdDKzXQmXrkFqxo3gv3Pq2WwGnMbT96flpUS9XiWEm7A==",
   "success": true,
   "projectFilePath": "C:\\Users\\weste\\Documents\\Desenvolvimento\\NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\NSE.Identidade.API.csproj",
   "expectedPackageFiles": [
@@ -20,6 +20,7 @@
     "C:\\Users\\weste\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.4\\microsoft.entityframeworkcore.relational.3.1.4.nupkg.sha512",
     "C:\\Users\\weste\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\3.1.4\\microsoft.entityframeworkcore.sqlserver.3.1.4.nupkg.sha512",
     "C:\\Users\\weste\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\3.1.4\\microsoft.entityframeworkcore.tools.3.1.4.nupkg.sha512",
+    "C:\\Users\\weste\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\weste\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.4\\microsoft.extensions.caching.abstractions.3.1.4.nupkg.sha512",
     "C:\\Users\\weste\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.4\\microsoft.extensions.caching.memory.3.1.4.nupkg.sha512",
     "C:\\Users\\weste\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.4\\microsoft.extensions.configuration.3.1.4.nupkg.sha512",
@@ -43,6 +44,7 @@
     "C:\\Users\\weste\\.nuget\\packages\\microsoft.identitymodel.tokens\\5.5.0\\microsoft.identitymodel.tokens.5.5.0.nupkg.sha512",
     "C:\\Users\\weste\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\weste\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\weste\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
     "C:\\Users\\weste\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512",
     "C:\\Users\\weste\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\weste\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
@@ -51,6 +53,10 @@
     "C:\\Users\\weste\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\weste\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\weste\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\weste\\.nuget\\packages\\swashbuckle.aspnetcore\\5.4.1\\swashbuckle.aspnetcore.5.4.1.nupkg.sha512",
+    "C:\\Users\\weste\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.4.1\\swashbuckle.aspnetcore.swagger.5.4.1.nupkg.sha512",
+    "C:\\Users\\weste\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.4.1\\swashbuckle.aspnetcore.swaggergen.5.4.1.nupkg.sha512",
+    "C:\\Users\\weste\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.4.1\\swashbuckle.aspnetcore.swaggerui.5.4.1.nupkg.sha512",
     "C:\\Users\\weste\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\weste\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",
     "C:\\Users\\weste\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
@@ -109,7 +115,8 @@
     "C:\\Users\\weste\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\weste\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\weste\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\weste\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\weste\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\weste\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []
 }

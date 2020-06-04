@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "cJW5Ake3zIKAf6V8JkPnh8H2vUVHyZ54hlfOzRDjn9XIWqyaHOMbGI66NL0bQwcNYnw7AAaMEHmfi9gGAM7smA==",
+  "dgSpecHash": "fJoWLh9/xME+0RM1B3mZfX8ziEZMYI+Fa+qV/O6H/1FV9iIhuIaOIEYdy4LWGAJBgZWaD6t/d4IlXR0KpZbbEw==",
   "success": true,
   "projectFilePath": "C:\\Users\\weste\\Documents\\Desenvolvimento\\NerdStoreEnterprise\\src\\services\\NSE.Cliente.API\\NSE.Cliente.API.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\weste\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+    "C:\\Users\\weste\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512",
+    "C:\\Users\\weste\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []
 }
