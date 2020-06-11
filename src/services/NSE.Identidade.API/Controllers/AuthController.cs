@@ -13,9 +13,9 @@ using NSE.Identidade.API.Models;
 
 namespace NSE.Identidade.API.Controllers
 {
-    [ApiController]
+
     [Route("api/identidade")]
-    public class AuthController : Controller
+    public class AuthController : MainController
     {
         private readonly SignInManager<IdentityUser> _signInManager;
         private readonly UserManager<IdentityUser> _userManager;
@@ -33,8 +33,8 @@ namespace NSE.Identidade.API.Controllers
         [HttpPost("nova-conta")]
         public async Task<ActionResult> Registrar(UsuarioRegistro usuarioRegistro)
         {
-            if (!ModelState.IsValid) return BadRequest();
-        
+            if (!ModelState.IsValid) return CustomResponse(ModelState);
+
             var user = new IdentityUser
             {
                 UserName = usuarioRegistro.Email,
@@ -46,28 +46,39 @@ namespace NSE.Identidade.API.Controllers
 
             if (result.Succeeded)
             {
-                await _signInManager.SignInAsync(user, false);
-                return Ok(await GerarJWT(usuarioRegistro.Email));
+                return CustomResponse(await GerarJWT(usuarioRegistro.Email));
             }
 
-            return BadRequest();
+            foreach (var erro in result.Errors)
+            {
+                AdicionarErrorProcessamento(erro.Description);
+            }
+
+            return CustomResponse();
         }
 
         [HttpPost("autenticar")]
         public async Task<ActionResult> Login(UsuarioLogin usuarioLogin)
         {
-            if (!ModelState.IsValid) return BadRequest();
+            if (!ModelState.IsValid) return CustomResponse(ModelState);
 
             var result = await _signInManager.PasswordSignInAsync(usuarioLogin.Email, usuarioLogin.Senha, false, true);
 
             if (result.Succeeded)
             {
-                return Ok(await GerarJWT(usuarioLogin.Email));
+                return CustomResponse(await GerarJWT(usuarioLogin.Email));
             }
 
-            return BadRequest();
+            if (result.IsLockedOut)
+            {
+                AdicionarErrorProcessamento("Usuário temporariamente bloqueado por tentativas inválidas");
+                return CustomResponse();
+            }
+
+            AdicionarErrorProcessamento("Usuário ou senha incorreta");
+            return CustomResponse();
         }
-    
+
         private async Task<UsuarioRespostaLogin> GerarJWT(string email)
         {
             var user = await _userManager.FindByEmailAsync(email);
@@ -117,7 +128,7 @@ namespace NSE.Identidade.API.Controllers
             return response;
         }
 
-        private static long ToUnixEpochDate(DateTime date) 
+        private static long ToUnixEpochDate(DateTime date)
             => (long)Math.Round((date.ToUniversalTime() - new DateTimeOffset(1970, 1, 1, 0, 0, 0, TimeSpan.Zero)).TotalSeconds);
     }
 }
