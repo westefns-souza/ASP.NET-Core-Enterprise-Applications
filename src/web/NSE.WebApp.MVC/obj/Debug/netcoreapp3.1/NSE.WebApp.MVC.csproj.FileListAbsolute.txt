@@ -351,3 +351,6 @@ C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\web\NSE.WebApp.
 C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\NSE.WebApp.MVC.dll
 C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\NSE.WebApp.MVC.pdb
 C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\NSE.WebApp.MVC.genruntimeconfig.cache
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Identidade\Login.cshtml.g.cs
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Identidade\Registro.cshtml.g.cs
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
