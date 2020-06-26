@@ -45,7 +45,7 @@ namespace NSE.WebApp.MVC.Controllers
         }
 
         [HttpPost]
-        [Route("nova-conta")]
+        [Route("login")]
         public async Task<IActionResult> Login(UsuarioLogin usuarioLogin)
         {
             if (!ModelState.IsValid) return View(usuarioLogin);

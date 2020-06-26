@@ -66,9 +66,6 @@ C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Id
 C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.csprojAssemblyReference.cache
 C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.AssemblyInfoInputs.cache
 C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.AssemblyInfo.cs
-C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.csproj.CoreCompileInputs.cache
-C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.RazorTargetAssemblyInfo.cache
 C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.csproj.CopyComplete
 C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\staticwebassets\NSE.Identidade.API.StaticWebAssets.Manifest.cache
@@ -76,3 +73,7 @@ C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Id
 C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.dll
 C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.pdb
 C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.genruntimeconfig.cache
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.csproj.CoreCompileInputs.cache
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.MvcApplicationPartsAssemblyInfo.cache
