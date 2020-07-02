@@ -20521,6 +20521,11 @@
   "RootNamespace": "NSE.WebApp.MVC",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\weste\\Documents\\Desenvolvimento\\NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Views\\Identidade\\Login.cshtml",
+      "TargetPath": "Views\\Identidade\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\weste\\Documents\\Desenvolvimento\\NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -20551,8 +20556,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\weste\\Documents\\Desenvolvimento\\NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Views\\Identidade\\Registro.cshtml",
+      "TargetPath": "Views\\Identidade\\Registro.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\weste\\Documents\\Desenvolvimento\\NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\weste\\Documents\\Desenvolvimento\\NerdStoreEnterprise\\src\\web\\NSE.WebApp.MVC\\Views\\Shared\\_LoginPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
       "FileKind": "mvc"
     }
   ],
