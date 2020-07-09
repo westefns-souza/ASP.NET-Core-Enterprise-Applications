@@ -362,3 +362,4 @@ C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\web\NSE.WebApp.
 C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\NSE.WebApp.MVC.csproj.CoreCompileInputs.cache
 C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\NSE.WebApp.MVC.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\NSE.WebApp.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Summary\Default.cshtml.g.cs
