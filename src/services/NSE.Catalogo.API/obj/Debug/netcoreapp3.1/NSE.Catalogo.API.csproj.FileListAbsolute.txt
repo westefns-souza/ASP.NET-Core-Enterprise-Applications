@@ -76,3 +76,12 @@ C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Ca
 C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Catalogo.API\obj\Debug\netcoreapp3.1\NSE.Catalogo.API.csproj.CoreCompileInputs.cache
 C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Catalogo.API\obj\Debug\netcoreapp3.1\NSE.Catalogo.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Catalogo.API\obj\Debug\netcoreapp3.1\NSE.Catalogo.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.dll
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.pdb

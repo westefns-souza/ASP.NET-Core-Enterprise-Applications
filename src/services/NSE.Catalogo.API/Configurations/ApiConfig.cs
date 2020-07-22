@@ -5,6 +5,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using NSE.Catalogo.API.Data;
+using NSE.WebAPI.Core.Identidade;
 
 namespace NSE.Catalogo.API.Configurations
 {
@@ -13,12 +14,12 @@ namespace NSE.Catalogo.API.Configurations
         public static void AddApiConfiguration(this IServiceCollection services, IConfiguration configuration)
         {
             services.AddDbContext<CatalogoContext>(options => options.UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
-            
+
             services.AddControllers();
 
             services.AddCors(options =>
             {
-                options.AddPolicy("Total", 
+                options.AddPolicy("Total",
                     builder => builder
                         .AllowAnyOrigin()
                         .AllowAnyMethod()
@@ -38,7 +39,7 @@ namespace NSE.Catalogo.API.Configurations
 
             app.UseRouting();
 
-            app.UseAuthorization();
+            app.UseAuthConfiguration();
 
             app.UseEndpoints(endpoints =>
             {

@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "i2gFlIhd5+a7B1PFfVybCn/SSirDh0zkPZEmM+RwYCVpkdLzZmNPn8gEpKLWlSVyeruCIWyxhHk2VV6as6ZA5w==",
+  "dgSpecHash": "KWaBYnEvZW9PTjobxVXO5NnJdJ8gkbnu1IooYn3oT7Nxsvo42swsqHpWYg+6KPQfuYTif6jdQTyNVc4oBV552w==",
   "success": true,
   "projectFilePath": "C:\\Users\\weste\\Documents\\Desenvolvimento\\NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\NSE.Identidade.API.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\weste\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.5\\microsoft.aspnetcore.authentication.jwtbearer.3.1.5.nupkg.sha512",
+    "C:\\Users\\weste\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.6\\microsoft.aspnetcore.authentication.jwtbearer.3.1.6.nupkg.sha512",
     "C:\\Users\\weste\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.5\\microsoft.aspnetcore.cryptography.internal.3.1.5.nupkg.sha512",
     "C:\\Users\\weste\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.5\\microsoft.aspnetcore.cryptography.keyderivation.3.1.5.nupkg.sha512",
     "C:\\Users\\weste\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\3.1.5\\microsoft.aspnetcore.identity.entityframeworkcore.3.1.5.nupkg.sha512",

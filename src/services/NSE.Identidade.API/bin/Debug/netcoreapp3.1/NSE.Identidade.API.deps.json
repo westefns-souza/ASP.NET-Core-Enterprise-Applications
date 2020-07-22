@@ -24,7 +24,7 @@
     ".NETCoreApp,Version=v3.1": {
       "NSE.Identidade.API/1.0.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.Authentication.JwtBearer": "3.1.5",
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "3.1.6",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.1.5",
           "Microsoft.AspNetCore.Identity.UI": "3.1.5",
           "Microsoft.EntityFrameworkCore": "3.1.5",
@@ -34,6 +34,7 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.5",
           "Microsoft.EntityFrameworkCore.Tools": "3.1.5",
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.10.8",
+          "NSE.WebAPI.Core": "1.0.0",
           "Swashbuckle.AspNetCore": "5.5.1",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
@@ -306,14 +307,14 @@
           "NSE.Identidade.API.dll": {}
         }
       },
-      "Microsoft.AspNetCore.Authentication.JwtBearer/3.1.5": {
+      "Microsoft.AspNetCore.Authentication.JwtBearer/3.1.6": {
         "dependencies": {
           "Microsoft.IdentityModel.Protocols.OpenIdConnect": "5.5.0"
         },
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll": {
-            "assemblyVersion": "3.1.5.0",
-            "fileVersion": "3.100.520.27105"
+            "assemblyVersion": "3.1.6.0",
+            "fileVersion": "3.100.620.31714"
           }
         },
         "compile": {
@@ -1528,6 +1529,17 @@
           "System.Threading": "4.3.0",
           "System.Xml.ReaderWriter": "4.3.0",
           "System.Xml.XmlDocument": "4.3.0"
+        }
+      },
+      "NSE.WebAPI.Core/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "3.1.6"
+        },
+        "runtime": {
+          "NSE.WebAPI.Core.dll": {}
+        },
+        "compile": {
+          "NSE.WebAPI.Core.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -3116,12 +3128,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Microsoft.AspNetCore.Authentication.JwtBearer/3.1.5": {
+    "Microsoft.AspNetCore.Authentication.JwtBearer/3.1.6": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-yIVf8D7YasN7x1kZDZWcZ+8bO5xiSdjpKscseRTA3/7QJsbeTGhZ1i2/9oqtTD4FTsENYeq8tAfTngy50r+x8Q==",
-      "path": "microsoft.aspnetcore.authentication.jwtbearer/3.1.5",
-      "hashPath": "microsoft.aspnetcore.authentication.jwtbearer.3.1.5.nupkg.sha512"
+      "sha512": "sha512-XT5yph4cdiMbas6FyvVafCKfg1QgPZM7Ssma7aDCG0Ee8JhZMMpXGottBeUC43/lDHCaw8wTq29HOKOTDB41vA==",
+      "path": "microsoft.aspnetcore.authentication.jwtbearer/3.1.6",
+      "hashPath": "microsoft.aspnetcore.authentication.jwtbearer.3.1.6.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Cryptography.Internal/3.1.5": {
       "type": "package",
@@ -3906,6 +3918,11 @@
       "sha512": "sha512-MYoTCP7EZ98RrANESW05J5ZwskKDoN0AuZ06ZflnowE50LTpbR5yRg3tHckTVm5j/m47stuGgCrCHWePyHS70Q==",
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    },
+    "NSE.WebAPI.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
       "type": "referenceassembly",
