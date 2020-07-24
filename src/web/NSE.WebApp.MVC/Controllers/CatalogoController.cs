@@ -30,7 +30,7 @@ namespace NSE.WebApp.MVC.Controllers
         {
             var produto = await _catalogoService.ObterPorId(id);
 
-            return View(produto);
+            return View("ProdutoDetalhe", produto);
         }
     }
 }
