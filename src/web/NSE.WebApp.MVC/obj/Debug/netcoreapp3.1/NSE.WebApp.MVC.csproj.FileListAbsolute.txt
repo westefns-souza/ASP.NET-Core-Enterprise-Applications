@@ -359,11 +359,13 @@ C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\web\NSE.WebApp.
 C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\NSE.WebApp.MVC.csproj.CoreCompileInputs.cache
-C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\NSE.WebApp.MVC.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\NSE.WebApp.MVC.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Summary\Default.cshtml.g.cs
 C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
 C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
 C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\Index.cshtml.g.cs
 C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\ProdutoDetalhe.cshtml.g.cs
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\RefitStubs.g.cs
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\NSE.WebApp.MVC.csproj.CoreCompileInputs.cache
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\NSE.WebApp.MVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\NSE.WebApp.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\weste\Documents\Desenvolvimento\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\bin\Debug\netcoreapp3.1\Refit.dll
